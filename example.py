@@ -1,5 +1,11 @@
 import rapid_auth
 import json
+
+
+##
+## First setup config.py with your API key and crypting key
+##
+
 print("Press 1 for Sign Up and 2 for Sign In")
 
 input_1 = input()
