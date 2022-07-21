@@ -1,0 +1,5 @@
+GPUtil==1.4.0
+py_cpuinfo==8.0.0
+requests==2.28.0
+rncryptor==3.3.0
+tabulate==0.8.10
